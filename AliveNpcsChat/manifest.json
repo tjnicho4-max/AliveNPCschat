@@ -1,0 +1,13 @@
+{
+  "Name": "AliveNpcs Chat & Memories",
+  "Author": "tjnicho4",
+  "Version": "0.8.0",
+  "Description": "Pick villagers and watch them chat — grounded in real AliveNpcs memories, with evolving pair bonds, romance, and Stardew-style portrait conversations. Addon for AliveNpcs.",
+  "UniqueID": "tjnicho4.AliveNpcsChat",
+  "EntryDll": "AliveNpcsChat.dll",
+  "MinimumApiVersion": "4.0.0",
+  "Dependencies": [
+    { "UniqueID": "Lucas.AliveNpcs", "MinimumVersion": "1.7.0" }
+  ],
+  "UpdateKeys": []
+}

@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>AliveNpcsChat</AssemblyName>
+    <RootNamespace>AliveNpcsChat</RootNamespace>
+    <Version>0.8.0</Version>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.4.*" />
+  </ItemGroup>
+
+  <!--
+    Direct reference to AliveNpcs.dll, needed for the Experimental Content API (dynamic
+    prompt blocks). Compile-time only: Private=false means the DLL is never copied into
+    this mod's output. If AliveNpcs moves (e.g. a mod manager reinstall changes the folder
+    layout), update this HintPath to wherever AliveNpcs.dll actually lives.
+  -->
+  <ItemGroup>
+    <Reference Include="AliveNpcs"
+               HintPath="$(GamePath)\Mods\AliveNpcs\AliveNpcs\AliveNpcs.dll"
+               Private="false" />
+  </ItemGroup>
+
+</Project>

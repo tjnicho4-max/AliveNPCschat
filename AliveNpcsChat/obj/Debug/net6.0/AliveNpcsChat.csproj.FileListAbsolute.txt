@@ -1,0 +1,13 @@
+C:\Steam\steamapps\common\Stardew Valley\Mods\AliveNpcs\AliveNpcsChat\obj\Debug\net6.0\AliveNpcsChat.csproj.AssemblyReference.cache
+C:\Steam\steamapps\common\Stardew Valley\Mods\AliveNpcs\AliveNpcsChat\obj\Debug\net6.0\AliveNpcsChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Steam\steamapps\common\Stardew Valley\Mods\AliveNpcs\AliveNpcsChat\obj\Debug\net6.0\AliveNpcsChat.AssemblyInfoInputs.cache
+C:\Steam\steamapps\common\Stardew Valley\Mods\AliveNpcs\AliveNpcsChat\obj\Debug\net6.0\AliveNpcsChat.AssemblyInfo.cs
+C:\Steam\steamapps\common\Stardew Valley\Mods\AliveNpcs\AliveNpcsChat\obj\Debug\net6.0\AliveNpcsChat.csproj.CoreCompileInputs.cache
+C:\dev\AliveNpcsChat\bin\Debug\net6.0\AliveNpcsChat.deps.json
+C:\dev\AliveNpcsChat\bin\Debug\net6.0\AliveNpcsChat.dll
+C:\dev\AliveNpcsChat\obj\Debug\net6.0\AliveNpcsChat.csproj.AssemblyReference.cache
+C:\dev\AliveNpcsChat\obj\Debug\net6.0\AliveNpcsChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\AliveNpcsChat\obj\Debug\net6.0\AliveNpcsChat.AssemblyInfoInputs.cache
+C:\dev\AliveNpcsChat\obj\Debug\net6.0\AliveNpcsChat.AssemblyInfo.cs
+C:\dev\AliveNpcsChat\obj\Debug\net6.0\AliveNpcsChat.csproj.CoreCompileInputs.cache
+C:\dev\AliveNpcsChat\obj\Debug\net6.0\AliveNpcsChat.dll
